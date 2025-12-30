@@ -1,0 +1,295 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2025-12-18 11:32:49.134724-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2025-12-18 11:32:49.134719-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" id="ipvybtpfoz" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" defaultWidth="1270px" defaultHeight="615px" class="widget-container"><ch5-color-chip maxvalue="255" id="i2cj6mdm9e" componentName="Color Chip_2" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldID="i52jgwh2u1"></ch5-color-chip><ch5-color-chip maxvalue="255" id="irceiniu66" componentName="Color Chip" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldID="i2cj6mdm9e"></ch5-color-chip><ch5-color-chip maxvalue="255" id="ifvtsolpgy" componentName="Color Chip_3" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldID="i2cj6mdm9e"></ch5-color-chip><ch5-color-chip maxvalue="255" id="ii12bxhccf" componentName="Color Chip_4" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldID="ifvtsolpgy"></ch5-color-chip><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="i7jheyfkru" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="Seminar Projectors" labelinnerhtml="Seminar Projectors" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ie2i3">
+              </ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="innvgpqjcz2kz" componentName="Formatted-Text_1" ccid_ActiveFont="'Roboto'" ccid_Label="Seminar Cart Displays" labelinnerhtml="Seminar Cart Displays" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i7jheyfkru"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="icgmhvl28xttt" componentName="Formatted-Text_2" ccid_ActiveFont="'Roboto'" ccid_Label="Conference Room Projectors" labelinnerhtml="Conference Room Projectors" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="innvgpqjcz2kz"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="ibdg1x9h3zoc4" componentName="Formatted-Text_3" ccid_ActiveFont="'Roboto'" ccid_Label="Control Room Front Wall Displays" labelinnerhtml="Control Room Front Wall Displays" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i7jheyfkru"></ch5-text><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="ik7rl" componentName="Seminar_Projs_WL" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" widgetid="wcbd1700b-613c-4925-a3e6-f0d160a4fa42" pd-subpagereceivestateshow="Contract Enabled">
+              </ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="igm5geopwhxph" componentName="S Cart Displays_WL" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" oldID="ik7rl" widgetid="wcbd1700b-613c-4925-a3e6-f0d160a4fa42" pd-subpagereceivestateshow="Contract Enabled"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="ig3dibmlkla8j" componentName="ConRmProjs_WL" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" oldID="igm5geopwhxph" widgetid="wcbd1700b-613c-4925-a3e6-f0d160a4fa42" pd-subpagereceivestateshow="Contract Enabled"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="6" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="iwtkeggq4e2ci" componentName="CtrlRm FW_ Wl" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" oldID="igm5geopwhxph" widgetid="wcbd1700b-613c-4925-a3e6-f0d160a4fa42" pd-subpagereceivestateshow="Contract Enabled"></ch5-subpage-reference-list></div>
+
+{Css}
+@media (max-width: 99999px){#ipvybtpfoz{width:1270px;height:615px;left:0;top:0;position:absolute;background-color:#111767ad;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#ifvtsolpgy{display:block;left:444px;top:33px;position:absolute;width:381px;height:246px;--ch5-color-chip--width:381px;--ch5-color-chip--height:246px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#i7jheyfkru{display:block;left:106px;top:33px;position:absolute;width:208px;height:51px;--ch5-text--width:208px;--ch5-text--height:51px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#i7jheyfkru .ch5-text :not(i):not(svg){font-family:'Roboto';}#i7jheyfkru .ch5-text{min-height:10px;min-width:10px;padding:0px;}#innvgpqjcz2kz{display:block;left:481px;top:24px;position:absolute;width:309px;height:64px;--ch5-text--width:309px;--ch5-text--height:64px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#innvgpqjcz2kz .ch5-text :not(i):not(svg){font-family:'Roboto';}#innvgpqjcz2kz .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i2cj6mdm9e{display:block;left:31px;top:33px;position:absolute;width:381px;height:246px;--ch5-color-chip--width:381px;--ch5-color-chip--height:246px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#ik7rl{width:377px;height:auto;display:block;left:36px;top:78px;position:absolute;}#igm5geopwhxph{width:377px;height:auto;display:block;left:446px;top:79px;position:absolute;}#ii12bxhccf{display:block;left:856px;top:36px;position:absolute;width:381px;height:246px;--ch5-color-chip--width:381px;--ch5-color-chip--height:246px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#icgmhvl28xttt{display:block;left:891px;top:17px;position:absolute;width:310px;height:79px;--ch5-text--width:310px;--ch5-text--height:79px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#icgmhvl28xttt .ch5-text :not(i):not(svg){font-family:'Roboto';}#icgmhvl28xttt .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ig3dibmlkla8j{width:377px;height:auto;display:block;left:858px;top:86px;position:absolute;}#irceiniu66{display:block;left:81px;top:320px;position:absolute;width:1100px;height:246px;--ch5-color-chip--width:1100px;--ch5-color-chip--height:246px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#ibdg1x9h3zoc4{display:block;left:442px;top:316px;position:absolute;width:379px;height:58px;--ch5-text--width:379px;--ch5-text--height:58px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#ibdg1x9h3zoc4 .ch5-text :not(i):not(svg){font-family:'Roboto';}#ibdg1x9h3zoc4 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iwtkeggq4e2ci{width:1090px;height:auto;display:block;left:86px;top:366px;position:absolute;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ipvybtpfoz{width:1270px;height:615px;left:0;top:0;position:absolute;}#ifvtsolpgy{left:444px;top:33px;position:absolute;width:381px;height:246px;--ch5-color-chip--height:246px;--ch5-color-chip--width:381px;}#i7jheyfkru{display:block;left:106px;top:33px;position:absolute;width:208px;height:51px;--ch5-text--width:208px;--ch5-text--height:51px;Label_color:#ffffff;--ch5-text--font-color:#ffffff;Label_font-size:20px;--ch5-text--font-size:20px;}#innvgpqjcz2kz{left:481px;top:24px;position:absolute;width:309px;height:64px;--ch5-text--height:64px;Label_font-size:20px;--ch5-text--font-size:20px;--ch5-text--width:309px;}#i2cj6mdm9e{left:31px;top:33px;position:absolute;width:381px;height:246px;--ch5-color-chip--height:246px;--ch5-color-chip--width:381px;}#ik7rl{width:377px;height:auto;display:block;left:36px;top:78px;position:absolute;}#igm5geopwhxph{left:446px;top:79px;position:absolute;width:377px;height:auto;}#ii12bxhccf{left:856px;top:36px;position:absolute;width:381px;height:246px;--ch5-color-chip--width:381px;--ch5-color-chip--height:246px;}#icgmhvl28xttt{left:891px;top:17px;position:absolute;width:310px;height:79px;--ch5-text--height:79px;--ch5-text--width:310px;Label_font-size:20px;--ch5-text--font-size:20px;}#ig3dibmlkla8j{left:858px;top:86px;position:absolute;width:377px;height:auto;}#irceiniu66{left:81px;top:320px;position:absolute;width:1100px;height:246px;--ch5-color-chip--width:1100px;--ch5-color-chip--height:246px;}#ibdg1x9h3zoc4{left:442px;top:316px;position:absolute;width:379px;height:58px;--ch5-text--width:379px;Label_font-size:20px;--ch5-text--font-size:20px;}#iwtkeggq4e2ci{left:86px;top:366px;position:absolute;width:1090px;height:auto;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Center 04_Devices"
+PageMode = "absolute"
+Id = "3fdbac1b-0f8f-4a79-bb6a-0c2193ad9fd7"
+DisplayBackgroundColor = "True"
+BackgroundColor = "#111767ad"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "i2cj6mdm9e"
+componentName = "Color Chip_2"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i52jgwh2u1"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "irceiniu66"
+componentName = "Color Chip"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2cj6mdm9e"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "ifvtsolpgy"
+componentName = "Color Chip_3"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2cj6mdm9e"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "ii12bxhccf"
+componentName = "Color Chip_4"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "ifvtsolpgy"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "i7jheyfkru"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Seminar Projectors"
+labelinnerhtml = "Seminar Projectors"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ie2i3"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "innvgpqjcz2kz"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Seminar Cart Displays"
+labelinnerhtml = "Seminar Cart Displays"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i7jheyfkru"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "icgmhvl28xttt"
+componentName = "Formatted-Text_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Conference Room Projectors"
+labelinnerhtml = "Conference Room Projectors"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "innvgpqjcz2kz"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "ibdg1x9h3zoc4"
+componentName = "Formatted-Text_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Control Room Front Wall Displays"
+labelinnerhtml = "Control Room Front Wall Displays"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i7jheyfkru"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "2"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "ik7rl"
+componentName = "Seminar_Projs_WL"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+widgetid = "wcbd1700b-613c-4925-a3e6-f0d160a4fa42"
+pd-subpagereceivestateshow = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "2"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "igm5geopwhxph"
+componentName = "S Cart Displays_WL"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+oldID = "ik7rl"
+widgetid = "wcbd1700b-613c-4925-a3e6-f0d160a4fa42"
+pd-subpagereceivestateshow = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "2"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "ig3dibmlkla8j"
+componentName = "ConRmProjs_WL"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+oldID = "igm5geopwhxph"
+widgetid = "wcbd1700b-613c-4925-a3e6-f0d160a4fa42"
+pd-subpagereceivestateshow = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "6"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iwtkeggq4e2ci"
+componentName = "CtrlRm FW_ Wl"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+oldID = "igm5geopwhxph"
+widgetid = "wcbd1700b-613c-4925-a3e6-f0d160a4fa42"
+pd-subpagereceivestateshow = "Contract Enabled"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "ipvybtpfoz"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+defaultWidth = "1270px"
+defaultHeight = "615px"
+

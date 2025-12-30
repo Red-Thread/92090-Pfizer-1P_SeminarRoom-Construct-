@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2025-12-16 10:10:49.909566-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2025-12-16 10:10:49.909562-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "bc2408ae-7713-4fe4-8634-b4fa7baf24af"
+Name = "green_led_off"
+SourceUri = "green_led_off.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+
