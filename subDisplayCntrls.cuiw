@@ -1,0 +1,166 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-01-14 22:28:43.773347-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-01-14 22:28:43.773343-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" id="ipvybtpfoz" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" defaultWidth="1270px" defaultHeight="615px" class="widget-container"><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="i1phhttu73" componentName="Formatted-Text_3" ccid_ActiveFont="'Roboto'" ccid_Label="Dining Displays" labelinnerhtml="Dining Displays" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="imnji6of1hq12"></ch5-text><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="4" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="iwtkeggq4e2ci" componentName="display_diningRm" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" oldID="igm5geopwhxph" pd-subpagereceivestateshow="Contract Enabled" widgetid="wcbd1700b-613c-4925-a3e6-f0d160a4fa42"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="3" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="ik7rl" componentName="display_mpr" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" widgetid="wcbd1700b-613c-4925-a3e6-f0d160a4fa42">
+              </ch5-subpage-reference-list><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="innvgpqjcz2kz" componentName="Formatted-Text_1" ccid_ActiveFont="'Roboto'" ccid_Label="MPR Projectors" labelinnerhtml="MPR Projectors" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="i7jheyfkru"></ch5-text><ch5-color-chip maxvalue="255" id="ifvtsolpgy" componentName="Color Chip_3" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldID="i2cj6mdm9e"></ch5-color-chip><ch5-color-chip maxvalue="255" id="irceiniu66" componentName="Color Chip" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldID="i2cj6mdm9e"></ch5-color-chip></div>
+
+{Css}
+@media (max-width: 99999px){#ipvybtpfoz{width:1270px;height:670px;left:0;top:0;position:absolute;background-color:#111767ad;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}#i1phhttu73{display:block;left:523px;top:360px;position:absolute;width:233px;height:58px;--ch5-text--width:233px;--ch5-text--height:58px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:66;}#i1phhttu73 .ch5-text :not(i):not(svg){font-family:"Roboto";}#i1phhttu73 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iwtkeggq4e2ci{left:254px;top:410px;position:absolute;width:763px;height:auto;z-index:64;}#ik7rl{width:548px;height:auto;display:block;left:361px;top:122px;position:absolute;z-index:61;}#innvgpqjcz2kz{display:block;left:480px;top:68px;position:absolute;width:309px;height:64px;--ch5-text--width:309px;--ch5-text--height:64px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:58;}#innvgpqjcz2kz .ch5-text :not(i):not(svg){font-family:'Roboto';}#innvgpqjcz2kz .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ifvtsolpgy{display:block;left:355px;top:77px;position:absolute;width:559px;height:246px;--ch5-color-chip--width:559px;--ch5-color-chip--height:246px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:55;}#irceiniu66{display:block;left:254px;top:365px;position:absolute;width:763px;height:246px;--ch5-color-chip--width:763px;--ch5-color-chip--height:246px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:54;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#ipvybtpfoz{width:1270px;height:670px;left:0;top:0;position:absolute;}#i1phhttu73{left:523px;top:360px;position:absolute;width:233px;height:58px;Label_font-size:20px;--ch5-text--font-size:20px;--ch5-text--width:233px;z-index:66;}#iwtkeggq4e2ci{left:254px;top:410px;position:absolute;width:763px;height:auto;z-index:64;}#ik7rl{width:548px;height:auto;display:block;left:361px;top:122px;position:absolute;z-index:61;}#innvgpqjcz2kz{left:480px;top:68px;position:absolute;width:309px;height:64px;--ch5-text--height:64px;Label_font-size:20px;--ch5-text--font-size:20px;--ch5-text--width:309px;z-index:58;}#ifvtsolpgy{left:355px;top:77px;position:absolute;width:559px;height:246px;--ch5-color-chip--height:246px;--ch5-color-chip--width:559px;z-index:55;}#irceiniu66{left:254px;top:365px;position:absolute;width:763px;height:246px;--ch5-color-chip--width:763px;--ch5-color-chip--height:246px;z-index:54;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "subDisplayCntrls"
+PageMode = "absolute"
+Id = "3fdbac1b-0f8f-4a79-bb6a-0c2193ad9fd7"
+DisplayBackgroundColor = "True"
+BackgroundColor = "#111767ad"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "i1phhttu73"
+componentName = "Formatted-Text_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Dining Displays"
+labelinnerhtml = "Dining Displays"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "imnji6of1hq12"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "4"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iwtkeggq4e2ci"
+componentName = "display_diningRm"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+oldID = "igm5geopwhxph"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "wcbd1700b-613c-4925-a3e6-f0d160a4fa42"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "3"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "ik7rl"
+componentName = "display_mpr"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "wcbd1700b-613c-4925-a3e6-f0d160a4fa42"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "innvgpqjcz2kz"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "MPR Projectors"
+labelinnerhtml = "MPR Projectors"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "i7jheyfkru"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "ifvtsolpgy"
+componentName = "Color Chip_3"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2cj6mdm9e"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "irceiniu66"
+componentName = "Color Chip"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2cj6mdm9e"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "ipvybtpfoz"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+defaultWidth = "1270px"
+defaultHeight = "615px"
+

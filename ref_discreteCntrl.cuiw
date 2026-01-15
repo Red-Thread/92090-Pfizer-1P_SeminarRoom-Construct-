@@ -1,9 +1,9 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.601.10.0"
-Created = 2026-01-13 22:18:03.174925-05:00
+Created = 2026-01-14 22:16:55.710707-05:00
 LastModifiedByAppHost = "2.601.10.0"
-Modified = 2026-01-13 22:18:03.174915-05:00
+Modified = 2026-01-14 22:16:55.710703-05:00
 CreatedByProjectApp = "1.4201.17.0"
 LastModifiedByProjectApp = "1.4201.17.0"
 MinimumProjectApp = "1.2600.1"
@@ -19,7 +19,7 @@ MinimumAppHost = "2.0.0"
 {PageAttributes}
 
 [Attributes]
-Name = "Label onoff"
+Name = "ref_discreteCntrl"
 PageMode = "absolute"
 Id = "cbd1700b-613c-4925-a3e6-f0d160a4fa42"
 DisplayBackgroundColor = "False"

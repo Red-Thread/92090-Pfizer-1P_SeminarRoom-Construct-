@@ -1,0 +1,106 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-01-14 22:33:06.664273-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-01-14 22:33:06.664236-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" id="i51n9kb5ip" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" defaultWidth="1270px" defaultHeight="615px" class="widget-container"><ch5-text clearLabel="false" labelmodeadvncomponent="advanced" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iisyf8kbrj" componentName="Formatted-Text_1" ccid_ActiveFont="'Crestron Simple Icons'" ccid_Label="<p><span style=&quot;font-family: 'Crestron Simple Icons';&quot;>]</span></p>" labelinnerhtml="<p><span style=&quot;font-family: 'Crestron Simple Icons';&quot;>]</span></p>" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true" oldID="ih3n"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ih3n" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="System Initializing" labelinnerhtml="System Initializing" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themeCSSSet="true">
+              </ch5-text><ch5-color-chip maxvalue="255" id="itvgn5s39v" componentName="Color Chip" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldID="ix8s"></ch5-color-chip><ch5-color-chip maxvalue="255" id="i4gt" componentName="Color Chip_2" ccid_linkSendReceive="True" devicesVisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(0,0,0,0.79)" oldID="i5mh4b418g"></ch5-color-chip></div>
+
+{Css}
+@media (max-width: 99999px){#i4gt{display:block;left:2px;top:0;position:absolute;width:1273px;height:670px;--ch5-color-chip--width:1273px;--ch5-color-chip--height:670px;--ch5-color-chip--background-color:rgba(0,0,0,0.79);Appearance_background-color:rgba(0,0,0,0.79);background-color:rgba(0,0,0,0.79);z-index:30;}#i51n9kb5ip{width:1279px;height:670px;left:0;top:0;position:absolute;background-color:#181c56ad;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#wrapper{background-color:#ffffff;}#ih3n{display:block;left:481px;top:206px;position:absolute;width:317px;height:48px;--ch5-text--width:317px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:25px;Label_font-size:25px;custom-normal-font-size:25px;z-index:32;}#ih3n .ch5-text :not(i):not(svg){font-family:"Roboto";}#ih3n .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iisyf8kbrj{display:block;left:481px;top:278px;position:absolute;width:317px;height:221px;--ch5-text--width:317px;--ch5-text--height:221px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:200px;Label_font-size:200px;custom-normal-font-size:200px;z-index:33;}#iisyf8kbrj .ch5-text{min-height:10px;min-width:10px;padding:0px;}#itvgn5s39v{display:block;left:211px;top:170px;position:absolute;width:856px;height:376px;--ch5-color-chip--width:856px;--ch5-color-chip--height:376px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:31;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i4gt{display:block;left:2px;top:0;position:absolute;width:1273px;height:670px;--ch5-color-chip--width:1273px;--ch5-color-chip--height:670px;--ch5-color-chip--background-color:rgba(0,0,0,0.79);Appearance_background-color:rgba(0,0,0,0.79);z-index:30;}#i51n9kb5ip{width:1279px;height:670px;left:0;top:0;position:absolute;}#ih3n{display:block;left:481px;top:206px;position:absolute;width:317px;height:48px;--ch5-text--width:317px;Label_color:#ffffff;--ch5-text--font-color:#ffffff;Label_font-size:25px;--ch5-text--font-size:25px;z-index:32;}#iisyf8kbrj{left:481px;top:278px;position:absolute;width:317px;height:221px;--ch5-text--height:221px;Label_font-size:200px;--ch5-text--font-size:200px;z-index:33;}#itvgn5s39v{left:211px;top:170px;position:absolute;width:856px;height:376px;--ch5-color-chip--width:856px;--ch5-color-chip--height:376px;z-index:31;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "popup_booting"
+PageMode = "absolute"
+Id = "bece0ba4-d0f7-46b9-bd22-51869a4850cc"
+DisplayBackgroundColor = "True"
+BackgroundColor = "#181c56ad"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iisyf8kbrj"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Crestron Simple Icons'"
+ccid_Label = "<p><span style=\"font-family: 'Crestron Simple Icons';\">]</span></p>"
+labelinnerhtml = "<p><span style=\"font-family: 'Crestron Simple Icons';\">]</span></p>"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ih3n"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ih3n"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "System Initializing"
+labelinnerhtml = "System Initializing"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "itvgn5s39v"
+componentName = "Color Chip"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "ix8s"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "i4gt"
+componentName = "Color Chip_2"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(0,0,0,0.79)"
+oldID = "i5mh4b418g"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "i51n9kb5ip"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+defaultWidth = "1270px"
+defaultHeight = "615px"
+
