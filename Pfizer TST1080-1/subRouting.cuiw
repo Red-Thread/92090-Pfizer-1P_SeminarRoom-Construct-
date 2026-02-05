@@ -1,0 +1,535 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-02-05 12:26:06.066429-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-02-05 12:26:06.066425-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" id="icw2900mgd" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" defaultwidth="1270px" defaultheight="615px" class="widget-container"><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="izu3" componentname="dest_mpr2" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" oldid="iar9a" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="iljm" componentname="dest_mpr1" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4">
+              </ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="iovb" componentname="destQuadView" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" widgetid="wf25e17df-f541-4832-a666-c316481df0da">
+              </ch5-subpage-reference-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="iytd" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Teams Content" labelinnerhtml="Teams Content" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="ijry5frqjrrps"></ch5-text><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="false" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="i5qk" componentname="teamsContent" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" oldid="isvvb6c0myy82" widgetid="w9e8397cb-21bb-49bd-9850-24d1105606a8"></ch5-subpage-reference-list><ch5-button-list centeritems="true" columns="1" endless="false" numberofitems="4" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="1" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="rounded-rectangle" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="" pd-buttonreceivestatescriptlabelhtml="Contract Enabled" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="Contract Enabled" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="ioj3" componentname="quadPresets" ccid_activefont="'Roboto'" ccid_label="<p><span style=&quot;font-family: 'Roboto'&quot;>Preset 1<br>Line2</span></p>" ccid_linksendreceive="True" ccid_imageicontype="iconclass" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" assetid="0" pd-receivestateselectedbutton="" contractitemlabeltype="innerHTML" usecontractforitemshow="true" buttonlabelinnerhtml="<p><span style=&quot;font-family: 'Roboto'&quot;>Preset 1<br>Line2</span></p>" labelmodebtnlist="advanced"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4"></ch5-button-list-individual-button></ch5-button-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="i3ds" componentname="text_quadview" ccid_activefont="'Roboto'" ccid_label="Quadview" labelinnerhtml="Quadview" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="ijry5frqjrrps"></ch5-text><ch5-color-chip maxvalue="255" id="ix33" componentname="Color Chip_6" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i2rehzhhk4me5"></ch5-color-chip><ch5-color-chip maxvalue="255" id="ip2f" componentname="Color Chip_1" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i2rehzhhk4me5"></ch5-color-chip><ch5-color-chip maxvalue="255" id="imx9" componentname="Color Chip_5" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="#ffffff">
+              </ch5-color-chip><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="false" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="injz" componentname="route_desktop" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" oldid="ihkyf" widgetid="w9e8397cb-21bb-49bd-9850-24d1105606a8"></ch5-subpage-reference-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="i4ro" componentname="nameDesktop" ccid_activefont="'Roboto'" ccid_label="Desktop Monitor" labelinnerhtml="Desktop Monitor" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="icrc15dplmuuw" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-color-chip maxvalue="255" id="iwtn" componentname="Color Chip_4" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="ib2camczyf2uh"></ch5-color-chip><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="3" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="imj3" componentname="dest_diningRm" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" oldid="i9w1j5dmdxnqc" pd-subpagereceivestateshow="Contract Enabled" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"></ch5-subpage-reference-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="iml4" componentname="nameDiining" ccid_activefont="'Roboto'" ccid_label="Dining Displays" labelinnerhtml="Dining Displays" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="idotihx5sivaz" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="i0oi" componentname="nameMPR" ccid_activefont="'Roboto'" ccid_label="Projectors" labelinnerhtml="Projectors" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="irxonj639to1n" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="16" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="iiw3" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" componentname="srcListSelector" widgetid="wef90b2d7-54da-405f-8649-336971d47454">
+              </ch5-subpage-reference-list><ch5-color-chip maxvalue="255" id="i359" componentname="Color Chip_3" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="ie1aphd51k"></ch5-color-chip><ch5-color-chip maxvalue="255" id="id88" componentname="Color Chip" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="il9z82jawn"></ch5-color-chip><ch5-color-chip maxvalue="255" id="i28v" componentname="Color Chip_2" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i5mh4b418g"></ch5-color-chip></div>
+
+{Css}
+@media (max-width: 99999px){#icw2900mgd{width:1279px;height:670px;left:0;top:0;position:absolute;background-color:#181c56ad;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#i28v{display:block;left:2px;top:4px;position:absolute;width:1275px;height:110px;--ch5-color-chip--width:1275px;--ch5-color-chip--height:110px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:106;}#i4ro{display:block;left:754px;top:432px;position:absolute;width:258px;height:34px;--ch5-text--width:258px;--ch5-text--height:34px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:116;}#i4ro .ch5-text :not(i):not(svg){font-family:"Roboto";}#i4ro .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iwtn{display:block;left:754px;top:423px;position:absolute;width:258px;height:247px;--ch5-color-chip--width:258px;--ch5-color-chip--height:247px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:115;}#iml4{display:block;left:9px;top:399px;position:absolute;width:720px;height:34px;--ch5-text--width:720px;--ch5-text--height:34px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:111;}#iml4 .ch5-text :not(i):not(svg){font-family:"Roboto";}#iml4 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#injz{width:238px;height:auto;display:block;left:762px;top:460px;position:absolute;z-index:117;}#imj3{width:720px;height:auto;display:block;left:9px;top:460px;position:absolute;z-index:114;listSpacing_item-spacing:1px;--ch5-subpage-reference-list--item-padding:1px;}#ip2f{display:block;left:753px;top:120px;position:absolute;width:520px;height:299px;--ch5-color-chip--width:520px;--ch5-color-chip--height:299px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:119;}#i3ds{display:block;left:753px;top:120px;position:absolute;width:520px;height:42px;--ch5-text--width:520px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:121;}#i3ds .ch5-text :not(i):not(svg){font-family:"Roboto";}#i3ds .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ioj3 ch5-button{--ch5-button--regular-font-size:20px;custom-normal-label-font-size:20px;Label_font-size:20px;--ch5-button--default-background-color:#6591af;--ch5-button--regular-icon-size:12px;custom-normal-icon-font-size:12px;Icon_font-size:12px;}#i5qk{width:238px;height:auto;display:block;left:1023px;top:460px;position:absolute;z-index:123;}#ix33{display:block;left:1019px;top:423px;position:absolute;width:250px;height:247px;--ch5-color-chip--width:250px;--ch5-color-chip--height:247px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:120;}#iytd{display:block;left:1023px;top:423px;position:absolute;width:242px;height:34px;--ch5-text--width:242px;--ch5-text--height:34px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:124;}#iytd .ch5-text :not(i):not(svg){font-family:"Roboto";}#iytd .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i0oi{display:block;left:13px;top:120px;position:absolute;width:720px;height:42px;--ch5-text--width:753px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:110;}#i0oi .ch5-text :not(i):not(svg){font-family:"Roboto";}#i0oi .ch5-text{min-height:10px;min-width:10px;padding:0px;}#id88{display:block;left:9px;top:120px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:107;}#imx9{display:block;left:258px;top:199px;position:absolute;z-index:118;width:2px;height:186px;--ch5-color-chip--width:2px;--ch5-color-chip--height:186px;--ch5-color-chip--background-color:#ffffff;Appearance_background-color:#ffffff;background-color:#ffffff;}#i359{display:block;left:9px;top:399px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:108;}#iovb{width:516px;height:auto;display:block;left:757px;top:177px;position:absolute;z-index:125;}#iljm{width:247px;height:auto;display:block;left:14px;top:182px;position:absolute;z-index:125;}#izu3{width:475px;height:auto;display:block;left:265px;top:182px;position:absolute;z-index:126;}#iiw3{width:1251px;height:auto;display:block;left:14px;top:4px;position:absolute;z-index:109;listSpacing_item-spacing:10px;--ch5-subpage-reference-list--item-padding:10px;}#wrapper{background-color:#ffffff;}#ioj3{width:516px;height:89px;listbuttonHSize_width:125px;listbuttonVSize_height:58px;listbuttonSpacing_row-gap:0px;listbuttonSpacing_column-gap:0px;buttonListDefaultImage_width:21px;buttonListDefaultImage_height:21px;display:block;left:757px;top:319px;position:absolute;z-index:122;--ch5-button-list--button-container-width:125px;Label_font-size:20px;Appearance_background-color:#6591af;--ch5-button--regular-font-size:20px;--ch5-button--default-background-color:#6591af;Icon_font-size:12px;--ch5-button-list--container-padding:1px;listSpacing_margin:1px;--ch5-button-list--button-container-padding:3px;listSpacing_item-spacing:3px;--ch5-button--regular-icon-size:12px;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#icw2900mgd{width:1279px;height:670px;left:0;top:0;position:absolute;}#i28v{display:block;left:2px;top:4px;position:absolute;width:1275px;height:110px;--ch5-color-chip--width:1275px;--ch5-color-chip--height:110px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);z-index:106;}#i4ro{display:block;left:754px;top:432px;position:absolute;width:258px;height:34px;--ch5-text--width:258px;--ch5-text--height:34px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:116;}#iwtn{display:block;left:754px;top:423px;position:absolute;width:258px;height:247px;--ch5-color-chip--width:258px;--ch5-color-chip--height:247px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:115;}#iml4{left:9px;top:399px;position:absolute;width:720px;height:34px;Label_font-size:20px;--ch5-text--font-size:20px;--ch5-text--width:720px;z-index:111;--ch5-text--height:34px;display:block;}#injz{width:238px;height:auto;display:block;left:762px;top:460px;position:absolute;z-index:117;}#imj3{width:720px;height:auto;display:block;left:9px;top:460px;position:absolute;z-index:114;listSpacing_item-spacing:1px;--ch5-subpage-reference-list--item-padding:1px;}#ip2f{display:block;left:753px;top:120px;position:absolute;width:520px;height:299px;--ch5-color-chip--width:520px;--ch5-color-chip--height:299px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:119;}#i3ds{display:block;left:753px;top:120px;position:absolute;width:520px;height:42px;--ch5-text--width:520px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:121;}#i5qk{width:238px;height:auto;display:block;left:1023px;top:460px;position:absolute;z-index:123;}#ix33{display:block;left:1019px;top:423px;position:absolute;width:250px;height:247px;--ch5-color-chip--width:250px;--ch5-color-chip--height:247px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:120;}#iytd{display:block;left:1023px;top:423px;position:absolute;width:242px;height:34px;--ch5-text--width:242px;--ch5-text--height:34px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:124;}#i0oi{display:block;left:13px;top:120px;position:absolute;width:720px;height:42px;--ch5-text--width:753px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:110;}#id88{display:block;left:9px;top:120px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:107;}#imx9{display:block;left:258px;top:199px;position:absolute;z-index:118;width:2px;height:186px;--ch5-color-chip--width:2px;--ch5-color-chip--height:186px;--ch5-color-chip--background-color:#ffffff;Appearance_background-color:#ffffff;background-color:#ffffff;}#i359{display:block;left:9px;top:399px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:108;}#iiw3{width:1251px;height:auto;display:block;left:14px;top:4px;position:absolute;z-index:109;listSpacing_item-spacing:10px;--ch5-subpage-reference-list--item-padding:10px;}#izu3{top:182px;}#iljm{top:182px;}#iovb{top:177px;}#ioj3{width:516px;height:89px;listbuttonHSize_width:125px;listbuttonVSize_height:58px;listbuttonSpacing_row-gap:0px;listbuttonSpacing_column-gap:0px;buttonListDefaultImage_width:21px;buttonListDefaultImage_height:21px;display:block;left:757px;top:319px;position:absolute;z-index:122;--ch5-button-list--button-container-width:125px;Label_font-size:20px;Appearance_background-color:#6591af;--ch5-button--regular-font-size:20px;--ch5-button--default-background-color:#6591af;Icon_font-size:12px;--ch5-button-list--container-padding:1px;listSpacing_margin:1px;--ch5-button-list--button-container-padding:3px;listSpacing_item-spacing:3px;--ch5-button--regular-icon-size:12px;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "subRouting"
+PageMode = "absolute"
+Id = "08a61cff-f59b-4da7-9cc5-009d5b61b3bd"
+DisplayBackgroundColor = "True"
+BackgroundColor = "#181c56ad"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "2"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "izu3"
+componentName = "dest_mpr2"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-subpagereceivestateshow = "Contract Enabled"
+oldID = "iar9a"
+widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "1"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iljm"
+componentName = "dest_mpr1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "2"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iovb"
+componentName = "destQuadView"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "wf25e17df-f541-4832-a666-c316481df0da"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "iytd"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Teams Content"
+labelinnerhtml = "Teams Content"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ijry5frqjrrps"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "false"
+numberofitems = "1"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "true"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "i5qk"
+componentName = "teamsContent"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+pd-subpagereceivestateshow = "Contract Enabled"
+oldID = "isvvb6c0myy82"
+widgetid = "w9e8397cb-21bb-49bd-9850-24d1105606a8"
+[[Elements.Components]]
+Type = "Ch5 Button List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Button List Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 1"
+[[Elements.Components.Components]]
+Type = "Ch5 Button List Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 2"
+[[Elements.Components.Components]]
+Type = "Ch5 Button List Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 3"
+[[Elements.Components.Components]]
+Type = "Ch5 Button List Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 4"
+
+[Elements.Components.Attributes]
+centeritems = "true"
+columns = "1"
+endless = "false"
+numberofitems = "4"
+orientation = "horizontal"
+previewstate = "buttonnormal"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+rows = "1"
+scrollbar = "true"
+scrolltoposition = "0"
+stretch = "null"
+indexid = "idx"
+customclass = "ccid-custom"
+buttoncheckboxposition = "left"
+buttoncheckboxshow = "false"
+buttonhalignlabel = "center"
+buttonvalignlabel = "middle"
+buttoniconposition = "first"
+buttonmode = "0"
+buttonshape = "rounded-rectangle"
+buttontype = "default"
+buttoniconurlfilltype = "initial"
+pd-receivestateenable = ""
+pd-receivestateshow = ""
+pd-receivestatescrolltoposition = ""
+pd-receivestatenumberofitems = ""
+pd-buttonreceivestateselected = ""
+pd-buttonreceivestatescriptlabelhtml = "Contract Enabled"
+pd-buttonreceivestateiconclass = ""
+buttonsendeventonclick = "Contract Enabled"
+pd-buttonreceivestateenable = ""
+pd-buttonreceivestateshow = "Contract Enabled"
+usecontractforeachbuttonselection = "false"
+affectedByPreviewState = "True"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "ioj3"
+componentName = "quadPresets"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "<p><span style=\"font-family: 'Roboto'\">Preset 1<br>Line2</span></p>"
+ccid_linkSendReceive = "True"
+ccid_imageIconType = "iconclass"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+assetid = "0"
+pd-receivestateselectedbutton = ""
+contractitemlabeltype = "innerHTML"
+useContractForItemShow = "true"
+buttonlabelinnerhtml = "<p><span style=\"font-family: 'Roboto'\">Preset 1<br>Line2</span></p>"
+labelmodeBtnList = "advanced"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "i3ds"
+componentName = "text_quadview"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Quadview"
+labelinnerhtml = "Quadview"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ijry5frqjrrps"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "ix33"
+componentName = "Color Chip_6"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2rehzhhk4me5"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "ip2f"
+componentName = "Color Chip_1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2rehzhhk4me5"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "imx9"
+componentName = "Color Chip_5"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "#ffffff"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "false"
+numberofitems = "1"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "true"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "injz"
+componentName = "route_desktop"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+pd-subpagereceivestateshow = "Contract Enabled"
+oldID = "ihkyf"
+widgetid = "w9e8397cb-21bb-49bd-9850-24d1105606a8"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "i4ro"
+componentName = "nameDesktop"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Desktop Monitor"
+labelinnerhtml = "Desktop Monitor"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "icrc15dplmuuw"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "iwtn"
+componentName = "Color Chip_4"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "ib2camczyf2uh"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "3"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "true"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "imj3"
+componentName = "dest_diningRm"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+oldID = "i9w1j5dmdxnqc"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "iml4"
+componentName = "nameDiining"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Dining Displays"
+labelinnerhtml = "Dining Displays"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "idotihx5sivaz"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "i0oi"
+componentName = "nameMPR"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Projectors"
+labelinnerhtml = "Projectors"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "irxonj639to1n"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "16"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "true"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iiw3"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+pd-subpagereceivestateshow = "Contract Enabled"
+componentName = "srcListSelector"
+widgetid = "wef90b2d7-54da-405f-8649-336971d47454"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "i359"
+componentName = "Color Chip_3"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "ie1aphd51k"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "id88"
+componentName = "Color Chip"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "il9z82jawn"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "i28v"
+componentName = "Color Chip_2"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i5mh4b418g"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "icw2900mgd"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+defaultWidth = "1270px"
+defaultHeight = "615px"
+

@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-02-05 12:26:06.107371-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-02-05 12:26:06.107368-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "b5c3e21b-9042-468f-8e59-55bed38df2e1"
+Name = "adi_bg_blue_light"
+SourceUri = "adi_bg_blue_light.png"
+AspectRatio = "1.6666666666666667"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

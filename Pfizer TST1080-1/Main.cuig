@@ -1,0 +1,170 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-02-05 12:26:06.095752-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-02-05 12:26:06.09575-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<ch5-template transitionduration="1s" transitiondelay="0s" templateid="w7a21eb00-9127-4efc-9c57-12c1e7011764" id="ihk6" componentname="popup_destOptions" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="wbece0ba4-d0f7-46b9-bd22-51869a4850cc" id="idzd" componentname="popup_booting" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w65eababe-8ab9-4b8d-af8d-9aeee48eadc1" id="iune" componentname="popup_rusure" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w518f889a-57ff-4ce5-9222-c195a184fed8" id="ii05" componentname="subRouting" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w3fdbac1b-0f8f-4a79-bb6a-0c2193ad9fd7" id="iluy" componentname="subDisplayCntrls" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w974aa36b-c5bf-4eac-813e-79b82c8e84f6" id="i2np" componentname="subAudio" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w6429933a-2373-40bb-ac4b-e4fa4301f93e" id="i7s3" componentname="staticHeader" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-template><ch5-template transitionduration="1s" transitiondelay="0s" templateid="w475ea1f1-fc2c-4a2d-bc74-90de8003eb41" id="irly" componentname="staticFooter" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-template><ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="b5c3e21b-9042-468f-8e59-55bed38df2e1" backgroundcolor="#ffffff" id="i0bd" componentname="Background" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" imgbackgroundcolor="transparent">
+              </ch5-background>
+
+
+
+{Css}
+@media (max-width: 99999px){#irly{display:block;left:0;top:708px;position:absolute;z-index:23;}#i7s3{display:block;left:0;top:0;position:absolute;z-index:24;}#i2np{display:none;left:0px;top:36px;position:absolute;z-index:25;}#iluy{display:none;left:0px;top:36px;position:absolute;z-index:26;}#iune{display:none;left:0px;top:40px;position:absolute;z-index:28;}#idzd{display:none;left:0;top:40px;position:absolute;z-index:29;}#ii05{display:block;left:0px;top:36px;position:absolute;z-index:27;width:auto;height:auto;}#ihk6{display:none;left:0px;top:36px;position:absolute;z-index:30;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i0bd{width:100%;height:100%;z-index:-98;overflow:hidden;position:absolute;display:block;left:0;top:0;}#irly{display:block;left:0;top:708px;position:absolute;z-index:23;}#i7s3{display:block;left:0;top:0;position:absolute;z-index:24;}#i2np{display:none;left:0px;top:36px;position:absolute;z-index:25;}#iluy{display:none;left:0px;top:36px;position:absolute;z-index:26;}#iune{display:none;left:0px;top:40px;position:absolute;z-index:28;}#idzd{display:none;left:0;top:40px;position:absolute;z-index:29;}#ii05{left:0px;top:36px;position:absolute;z-index:27;width:auto;height:auto;display:block;}#ihk6{display:none;left:0px;top:36px;position:absolute;z-index:30;}}
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "Main"
+PageMode = "absolute"
+Id = "cb2094cb-302f-4d9a-bd9e-f95a4f352979"
+StartPage = "True"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "0"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "w72a6d2fa-7a32-4e83-acf4-c31781df0f32"
+id = "ihk6"
+componentName = "popup_destOptions"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "w6c08551c-e0fe-4833-a26e-697b27dbd3ec"
+id = "idzd"
+componentName = "popup_booting"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "wcf857a09-cd0a-47ef-9f20-e712f05a05a9"
+id = "iune"
+componentName = "popup_rusure"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "w08a61cff-f59b-4da7-9cc5-009d5b61b3bd"
+id = "ii05"
+componentName = "subRouting"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "wf22be356-d2eb-4209-a146-94433a719dbb"
+id = "iluy"
+componentName = "subDisplayCntrls"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "w2440aef2-ef23-49d5-9376-cd99c6cbd228"
+id = "i2np"
+componentName = "subAudio"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "w5f60b496-7aa2-43a4-b789-4ad3f224d446"
+id = "i7s3"
+componentName = "staticHeader"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+transitionduration = "1s"
+transitiondelay = "0s"
+templateid = "wb086bfb0-477e-4e00-8018-f0182a7d6ff0"
+id = "irly"
+componentName = "staticFooter"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+[[Elements]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "b5c3e21b-9042-468f-8e59-55bed38df2e1"
+backgroundcolor = "#ffffff"
+id = "i0bd"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+imgbackgroundcolor = "transparent"
+

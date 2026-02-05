@@ -5,7 +5,7 @@
     "_created": "2025-12-16T10:01:47.638676-05:00",
     "_lastModifiedByAppHost": "2.601.10.0",
     "_minimumAppHost": "2.0.0",
-    "_modified": "2025-12-16T10:01:47.638646-05:00"
+    "_modified": "2026-02-05T12:26:06.33813-05:00"
   },
   "_solution": {
     "_name": "Pfizer TST1080",
@@ -14,6 +14,11 @@
         "_name": "Pfizer TST1080",
         "_filename": "Pfizer TST1080.cuip",
         "_datetime": "2025-12-16T15:01:47.448701Z"
+      },
+      {
+        "_name": "Pfizer TST1080-1",
+        "_filename": "Pfizer TST1080-1/Pfizer TST1080-1.cuip",
+        "_datetime": "2026-02-05T17:26:06.327931Z"
       }
     ]
   }

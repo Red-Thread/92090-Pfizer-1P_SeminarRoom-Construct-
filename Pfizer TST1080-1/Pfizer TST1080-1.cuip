@@ -1,0 +1,32 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-02-05 12:26:06.059576-05:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-02-05 12:26:06.059569-05:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "Pfizer TST1080-1"
+ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
+ThemePageColor = "#ffffff"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.16.0"
+Id = "760b744f-ec06-4196-a508-31610fdf96ce"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DeviceResolutionIds = "D-L-TST1080-1280-0800,D-L-TSW1070-1280-0800"
+ipId = "03"
+ProjectSchemaVersion = "6"
+
