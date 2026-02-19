@@ -1,23 +1,23 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.601.10.0"
-Created = 2026-02-05 14:58:35.36888-05:00
+Created = 2026-02-19 13:10:50.973161-05:00
 LastModifiedByAppHost = "2.601.10.0"
-Modified = 2026-02-05 14:58:35.368866-05:00
+Modified = 2026-02-19 13:10:50.972638-05:00
 CreatedByProjectApp = "1.4201.17.0"
 LastModifiedByProjectApp = "1.4201.17.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" id="i6p2kbd5q5" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" defaultwidth="1270px" defaultheight="615px" class="widget-container"><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="ix2xws1sftafi" componentname="dest_mpr2" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" oldid="iar9a" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="iar9a" componentname="dest_mpr1" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4">
-              </ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="itvqh" componentname="destQuadView" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" widgetid="wf25e17df-f541-4832-a666-c316481df0da">
-              </ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="false" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="i1eetlci44k6w" componentname="teamsContent" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" oldid="isvvb6c0myy82" widgetid="w9e8397cb-21bb-49bd-9850-24d1105606a8"></ch5-subpage-reference-list><ch5-button-list centeritems="true" columns="1" endless="false" numberofitems="4" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="1" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="rounded-rectangle" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="" pd-buttonreceivestatescriptlabelhtml="Contract Enabled" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="Contract Enabled" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="i2t5x" componentname="quadPresets" ccid_activefont="'Roboto'" ccid_label="<p><span style=&quot;font-family: 'Roboto'&quot;>Preset 1<br>Line2</span></p>" ccid_linksendreceive="True" ccid_imageicontype="iconclass" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" assetid="0" pd-receivestateselectedbutton="" contractitemlabeltype="innerHTML" usecontractforitemshow="true" buttonlabelinnerhtml="<p><span style=&quot;font-family: 'Roboto'&quot;>Preset 1<br>Line2</span></p>" labelmodebtnlist="advanced"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4"></ch5-button-list-individual-button></ch5-button-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="irukeawqsxu6c" componentname="text_quadview" ccid_activefont="'Roboto'" ccid_label="Quadview" labelinnerhtml="Quadview" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="ijry5frqjrrps"></ch5-text><ch5-color-chip maxvalue="255" id="iiyitubqubrgk" componentname="Color Chip_6" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i2rehzhhk4me5"></ch5-color-chip><ch5-color-chip maxvalue="255" id="if81ayxge5egf" componentname="Color Chip_1" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i2rehzhhk4me5"></ch5-color-chip><ch5-color-chip maxvalue="255" id="imu6x" componentname="Color Chip_5" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="#ffffff">
-              </ch5-color-chip><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="false" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="isvvb6c0myy82" componentname="route_desktop" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" oldid="ihkyf" widgetid="w9e8397cb-21bb-49bd-9850-24d1105606a8"></ch5-subpage-reference-list><ch5-color-chip maxvalue="255" id="i2rehzhhk4me5" componentname="Color Chip_4" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="ib2camczyf2uh"></ch5-color-chip><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="3" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="ihz1l9fjm10bh" componentname="dest_diningRm" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" oldid="i9w1j5dmdxnqc" pd-subpagereceivestateshow="Contract Enabled" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"></ch5-subpage-reference-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="imnji6of1hq12" componentname="nameDiining" ccid_activefont="'Roboto'" ccid_label="Dining Displays" labelinnerhtml="Dining Displays" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="idotihx5sivaz" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="ield1m7fbis95" componentname="nameMPR" ccid_activefont="'Roboto'" ccid_label="Projectors" labelinnerhtml="Projectors" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="irxonj639to1n" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="16" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="i51zf" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" componentname="srcListSelector" widgetid="wef90b2d7-54da-405f-8649-336971d47454">
-              </ch5-subpage-reference-list><ch5-color-chip maxvalue="255" id="i26atu4moi" componentname="Color Chip_3" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="ie1aphd51k"></ch5-color-chip><ch5-color-chip maxvalue="255" id="ij73f1joj7" componentname="Color Chip" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="il9z82jawn"></ch5-color-chip><ch5-color-chip maxvalue="255" id="il9z82jawn" componentname="Color Chip_2" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i5mh4b418g"></ch5-color-chip></div>
+<div categoryname="Widget Components" id="i6p2kbd5q5" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" defaultwidth="1270px" defaultheight="615px" class="widget-container"><ch5-color-chip maxvalue="255" id="il9z82jawn" componentname="Color Chip_2" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i5mh4b418g"></ch5-color-chip><ch5-color-chip maxvalue="255" id="ij73f1joj7" componentname="Color Chip" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="il9z82jawn"></ch5-color-chip><ch5-color-chip maxvalue="255" id="i26atu4moi" componentname="Color Chip_3" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="ie1aphd51k"></ch5-color-chip><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="16" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="i51zf" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" componentname="srcListSelector" widgetid="wef90b2d7-54da-405f-8649-336971d47454">
+              </ch5-subpage-reference-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="ield1m7fbis95" componentname="nameMPR" ccid_activefont="'Roboto'" ccid_label="Projectors" labelinnerhtml="Projectors" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="irxonj639to1n" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="imnji6of1hq12" componentname="nameDiining" ccid_activefont="'Roboto'" ccid_label="Dining Displays" labelinnerhtml="Dining Displays" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="idotihx5sivaz" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="3" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="ihz1l9fjm10bh" componentname="dest_diningRm" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" oldid="i9w1j5dmdxnqc" pd-subpagereceivestateshow="Contract Enabled" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"></ch5-subpage-reference-list><ch5-color-chip maxvalue="255" id="i2rehzhhk4me5" componentname="Color Chip_4" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="ib2camczyf2uh"></ch5-color-chip><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="false" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="isvvb6c0myy82" componentname="route_desktop" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" oldid="ihkyf" widgetid="w9e8397cb-21bb-49bd-9850-24d1105606a8"></ch5-subpage-reference-list><ch5-color-chip maxvalue="255" id="imu6x" componentname="Color Chip_5" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="#ffffff">
+              </ch5-color-chip><ch5-color-chip maxvalue="255" id="if81ayxge5egf" componentname="Color Chip_1" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i2rehzhhk4me5"></ch5-color-chip><ch5-color-chip maxvalue="255" id="iiyitubqubrgk" componentname="Color Chip_6" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" previewcolor="rgba(64,82,95,0.51)" oldid="i2rehzhhk4me5"></ch5-color-chip><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" id="irukeawqsxu6c" componentname="text_quadview" ccid_activefont="'Roboto'" ccid_label="Quadview" labelinnerhtml="Quadview" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" oldid="ijry5frqjrrps"></ch5-text><ch5-button-list centeritems="true" columns="1" endless="false" numberofitems="4" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="1" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="rounded-rectangle" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="" pd-buttonreceivestatescriptlabelhtml="Contract Enabled" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="Contract Enabled" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="i2t5x" componentname="quadPresets" ccid_activefont="'Roboto'" ccid_label="<p><span style=&quot;font-family: 'Roboto'&quot;>Preset 1<br>Line2</span></p>" ccid_linksendreceive="True" ccid_imageicontype="iconclass" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" assetid="0" pd-receivestateselectedbutton="" contractitemlabeltype="innerHTML" usecontractforitemshow="true" buttonlabelinnerhtml="<p><span style=&quot;font-family: 'Roboto'&quot;>Preset 1<br>Line2</span></p>" labelmodebtnlist="advanced"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4"></ch5-button-list-individual-button></ch5-button-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="false" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="true" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="i1eetlci44k6w" componentname="teamsContent" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-receivestateshow="Contract Enabled" pd-subpagereceivestateshow="Contract Enabled" oldid="isvvb6c0myy82" widgetid="w9e8397cb-21bb-49bd-9850-24d1105606a8"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="itvqh" componentname="destQuadView" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" widgetid="wf25e17df-f541-4832-a666-c316481df0da">
+              </ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="iar9a" componentname="dest_mpr1" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4">
+              </ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="ix2xws1sftafi" componentname="dest_mpr2" ccid_linksendreceive="True" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" pd-subpagereceivestateshow="Contract Enabled" oldid="iar9a" widgetid="we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"></ch5-subpage-reference-list></div>
 
 {Css}
-@media (max-width: 99999px){#i6p2kbd5q5{width:1279px;height:670px;left:0;top:0;position:absolute;background-color:#181c56ad;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#il9z82jawn{display:block;left:2px;top:4px;position:absolute;width:1275px;height:110px;--ch5-color-chip--width:1275px;--ch5-color-chip--height:110px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:106;}#i2rehzhhk4me5{display:block;left:754px;top:460px;position:absolute;width:258px;height:204px;--ch5-color-chip--width:258px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:115;}#imnji6of1hq12{display:block;left:9px;top:399px;position:absolute;width:720px;height:34px;--ch5-text--width:720px;--ch5-text--height:34px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:111;}#imnji6of1hq12 .ch5-text :not(i):not(svg){font-family:"Roboto";}#imnji6of1hq12 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#isvvb6c0myy82{width:238px;height:auto;display:block;left:764px;top:469px;position:absolute;z-index:117;}#ihz1l9fjm10bh{width:720px;height:auto;display:block;left:9px;top:460px;position:absolute;z-index:114;listSpacing_item-spacing:1px;--ch5-subpage-reference-list--item-padding:1px;}#if81ayxge5egf{display:block;left:753px;top:120px;position:absolute;width:520px;height:335px;--ch5-color-chip--width:520px;--ch5-color-chip--height:335px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:119;}#irukeawqsxu6c{display:block;left:753px;top:120px;position:absolute;width:520px;height:42px;--ch5-text--width:520px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:121;}#irukeawqsxu6c .ch5-text :not(i):not(svg){font-family:"Roboto";}#irukeawqsxu6c .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i2t5x ch5-button{--ch5-button--regular-font-size:20px;custom-normal-label-font-size:20px;Label_font-size:20px;--ch5-button--default-background-color:#6591af;--ch5-button--regular-icon-size:12px;custom-normal-icon-font-size:12px;Icon_font-size:12px;}#i1eetlci44k6w{width:238px;height:auto;display:block;left:1023px;top:469px;position:absolute;z-index:123;}#iiyitubqubrgk{display:block;left:1019px;top:460px;position:absolute;width:250px;height:204px;--ch5-color-chip--width:250px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:120;}#ield1m7fbis95{display:block;left:13px;top:120px;position:absolute;width:720px;height:42px;--ch5-text--width:753px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:110;}#ield1m7fbis95 .ch5-text :not(i):not(svg){font-family:"Roboto";}#ield1m7fbis95 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ij73f1joj7{display:block;left:9px;top:120px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:107;}#imu6x{display:block;left:258px;top:199px;position:absolute;z-index:118;width:2px;height:186px;--ch5-color-chip--width:2px;--ch5-color-chip--height:186px;--ch5-color-chip--background-color:#ffffff;Appearance_background-color:#ffffff;background-color:#ffffff;}#i26atu4moi{display:block;left:9px;top:399px;position:absolute;width:737px;height:263px;--ch5-color-chip--width:737px;--ch5-color-chip--height:263px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:108;}#itvqh{width:516px;height:auto;display:block;left:757px;top:169px;position:absolute;z-index:125;}#iar9a{width:247px;height:auto;display:block;left:14px;top:174px;position:absolute;z-index:125;}#ix2xws1sftafi{width:475px;height:auto;display:block;left:265px;top:174px;position:absolute;z-index:126;}#i51zf{width:1251px;height:auto;display:block;left:14px;top:4px;position:absolute;z-index:109;listSpacing_item-spacing:10px;--ch5-subpage-reference-list--item-padding:10px;}#wrapper{background-color:#ffffff;}#i2t5x{width:516px;height:89px;listbuttonHSize_width:125px;listbuttonVSize_height:58px;listbuttonSpacing_row-gap:0px;listbuttonSpacing_column-gap:0px;buttonListDefaultImage_width:21px;buttonListDefaultImage_height:21px;display:block;left:757px;top:359px;position:absolute;z-index:122;--ch5-button-list--button-container-width:125px;Label_font-size:20px;Appearance_background-color:#6591af;--ch5-button--regular-font-size:20px;--ch5-button--default-background-color:#6591af;Icon_font-size:12px;--ch5-button-list--container-padding:1px;listSpacing_margin:1px;--ch5-button-list--button-container-padding:3px;listSpacing_item-spacing:3px;--ch5-button--regular-icon-size:12px;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i6p2kbd5q5{width:1279px;height:670px;left:0;top:0;position:absolute;}#il9z82jawn{display:block;left:2px;top:4px;position:absolute;width:1275px;height:110px;--ch5-color-chip--width:1275px;--ch5-color-chip--height:110px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);z-index:106;}#i2rehzhhk4me5{display:block;left:754px;top:460px;position:absolute;width:258px;height:204px;--ch5-color-chip--width:258px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:115;}#imnji6of1hq12{left:9px;top:399px;position:absolute;width:720px;height:34px;Label_font-size:20px;--ch5-text--font-size:20px;--ch5-text--width:720px;z-index:111;--ch5-text--height:34px;display:block;}#isvvb6c0myy82{width:238px;height:auto;display:block;left:764px;top:469px;position:absolute;z-index:117;}#ihz1l9fjm10bh{width:720px;height:auto;display:block;left:9px;top:460px;position:absolute;z-index:114;listSpacing_item-spacing:1px;--ch5-subpage-reference-list--item-padding:1px;}#if81ayxge5egf{display:block;left:753px;top:120px;position:absolute;width:520px;height:335px;--ch5-color-chip--width:520px;--ch5-color-chip--height:335px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:119;}#irukeawqsxu6c{display:block;left:753px;top:120px;position:absolute;width:520px;height:42px;--ch5-text--width:520px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:121;}#i1eetlci44k6w{width:238px;height:auto;display:block;left:1023px;top:469px;position:absolute;z-index:123;}#iiyitubqubrgk{display:block;left:1019px;top:460px;position:absolute;width:250px;height:204px;--ch5-color-chip--width:250px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:120;}#ield1m7fbis95{display:block;left:13px;top:120px;position:absolute;width:720px;height:42px;--ch5-text--width:753px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;z-index:110;}#ij73f1joj7{display:block;left:9px;top:120px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:107;}#imu6x{display:block;left:258px;top:199px;position:absolute;z-index:118;width:2px;height:186px;--ch5-color-chip--width:2px;--ch5-color-chip--height:186px;--ch5-color-chip--background-color:#ffffff;Appearance_background-color:#ffffff;background-color:#ffffff;}#i26atu4moi{display:block;left:9px;top:399px;position:absolute;width:737px;height:263px;--ch5-color-chip--width:737px;--ch5-color-chip--height:263px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);z-index:108;}#i51zf{width:1251px;height:auto;display:block;left:14px;top:4px;position:absolute;z-index:109;listSpacing_item-spacing:10px;--ch5-subpage-reference-list--item-padding:10px;}#itvqh{top:169px;}#ix2xws1sftafi{top:174px;}#iar9a{top:174px;}#i2t5x{width:516px;height:89px;listbuttonHSize_width:125px;listbuttonVSize_height:58px;listbuttonSpacing_row-gap:0px;listbuttonSpacing_column-gap:0px;buttonListDefaultImage_width:21px;buttonListDefaultImage_height:21px;display:block;left:757px;top:359px;position:absolute;z-index:122;--ch5-button-list--button-container-width:125px;Label_font-size:20px;Appearance_background-color:#6591af;--ch5-button--regular-font-size:20px;--ch5-button--default-background-color:#6591af;Icon_font-size:12px;--ch5-button-list--container-padding:1px;listSpacing_margin:1px;--ch5-button-list--button-container-padding:3px;listSpacing_item-spacing:3px;--ch5-button--regular-icon-size:12px;}}
+@media (max-width: 99999px){#i6p2kbd5q5{width:1279px;height:670px;left:0;top:0;position:absolute;background-color:#181c56ad;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#il9z82jawn{display:block;left:2px;top:4px;position:absolute;width:1275px;height:110px;--ch5-color-chip--width:1275px;--ch5-color-chip--height:110px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#i2rehzhhk4me5{display:block;left:754px;top:460px;position:absolute;width:258px;height:204px;--ch5-color-chip--width:258px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#imnji6of1hq12{display:block;left:9px;top:399px;position:absolute;width:720px;height:34px;--ch5-text--width:720px;--ch5-text--height:34px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#imnji6of1hq12 .ch5-text :not(i):not(svg){font-family:"Roboto";}#imnji6of1hq12 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#isvvb6c0myy82{width:238px;height:auto;display:block;left:764px;top:469px;position:absolute;}#ihz1l9fjm10bh{width:720px;height:auto;display:block;left:9px;top:460px;position:absolute;listSpacing_item-spacing:1px;--ch5-subpage-reference-list--item-padding:1px;}#if81ayxge5egf{display:block;left:753px;top:120px;position:absolute;width:520px;height:335px;--ch5-color-chip--width:520px;--ch5-color-chip--height:335px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#irukeawqsxu6c{display:block;left:753px;top:120px;position:absolute;width:520px;height:42px;--ch5-text--width:520px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#irukeawqsxu6c .ch5-text :not(i):not(svg){font-family:"Roboto";}#irukeawqsxu6c .ch5-text{min-height:10px;min-width:10px;padding:0px;}#i2t5x ch5-button{--ch5-button--regular-font-size:20px;custom-normal-label-font-size:20px;Label_font-size:20px;--ch5-button--default-background-color:#6591af;--ch5-button--regular-icon-size:12px;custom-normal-icon-font-size:12px;Icon_font-size:12px;}#i1eetlci44k6w{width:238px;height:auto;display:block;left:1023px;top:469px;position:absolute;}#iiyitubqubrgk{display:block;left:1019px;top:460px;position:absolute;width:250px;height:204px;--ch5-color-chip--width:250px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#ield1m7fbis95{display:block;left:13px;top:120px;position:absolute;width:720px;height:42px;--ch5-text--width:753px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#ield1m7fbis95 .ch5-text :not(i):not(svg){font-family:"Roboto";}#ield1m7fbis95 .ch5-text{min-height:10px;min-width:10px;padding:0px;}#ij73f1joj7{display:block;left:9px;top:120px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#imu6x{display:block;left:258px;top:199px;position:absolute;width:2px;height:186px;--ch5-color-chip--width:2px;--ch5-color-chip--height:186px;--ch5-color-chip--background-color:#ffffff;Appearance_background-color:#ffffff;background-color:#ffffff;}#i26atu4moi{display:block;left:9px;top:399px;position:absolute;width:737px;height:263px;--ch5-color-chip--width:737px;--ch5-color-chip--height:263px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#itvqh{width:516px;height:auto;display:block;left:757px;top:169px;position:absolute;}#iar9a{width:247px;height:auto;display:block;left:14px;top:174px;position:absolute;}#ix2xws1sftafi{width:475px;height:auto;display:block;left:265px;top:174px;position:absolute;}#i51zf{width:1251px;height:auto;display:block;left:14px;top:4px;position:absolute;listSpacing_item-spacing:10px;--ch5-subpage-reference-list--item-padding:10px;}#wrapper{background-color:#ffffff;}#i2t5x{width:516px;height:89px;listbuttonHSize_width:125px;listbuttonVSize_height:58px;listbuttonSpacing_row-gap:0px;listbuttonSpacing_column-gap:0px;buttonListDefaultImage_width:21px;buttonListDefaultImage_height:21px;display:block;left:757px;top:359px;position:absolute;--ch5-button-list--button-container-width:125px;Label_font-size:20px;Appearance_background-color:#6591af;--ch5-button--regular-font-size:20px;--ch5-button--default-background-color:#6591af;Icon_font-size:12px;--ch5-button-list--container-padding:1px;listSpacing_margin:1px;--ch5-button-list--button-container-padding:3px;listSpacing_item-spacing:3px;--ch5-button--regular-icon-size:12px;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i6p2kbd5q5{width:1279px;height:670px;left:0;top:0;position:absolute;}#il9z82jawn{display:block;left:2px;top:4px;position:absolute;width:1275px;height:110px;--ch5-color-chip--width:1275px;--ch5-color-chip--height:110px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);}#i2rehzhhk4me5{display:block;left:754px;top:460px;position:absolute;width:258px;height:204px;--ch5-color-chip--width:258px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#imnji6of1hq12{left:9px;top:399px;position:absolute;width:720px;height:34px;Label_font-size:20px;--ch5-text--font-size:20px;--ch5-text--width:720px;--ch5-text--height:34px;display:block;}#isvvb6c0myy82{width:238px;height:auto;display:block;left:764px;top:469px;position:absolute;}#ihz1l9fjm10bh{width:720px;height:auto;display:block;left:9px;top:460px;position:absolute;listSpacing_item-spacing:1px;--ch5-subpage-reference-list--item-padding:1px;}#if81ayxge5egf{display:block;left:753px;top:120px;position:absolute;width:520px;height:335px;--ch5-color-chip--width:520px;--ch5-color-chip--height:335px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#irukeawqsxu6c{display:block;left:753px;top:120px;position:absolute;width:520px;height:42px;--ch5-text--width:520px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#i1eetlci44k6w{width:238px;height:auto;display:block;left:1023px;top:469px;position:absolute;}#iiyitubqubrgk{display:block;left:1019px;top:460px;position:absolute;width:250px;height:204px;--ch5-color-chip--width:250px;--ch5-color-chip--height:204px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#ield1m7fbis95{display:block;left:13px;top:120px;position:absolute;width:720px;height:42px;--ch5-text--width:753px;--ch5-text--height:42px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;}#ij73f1joj7{display:block;left:9px;top:120px;position:absolute;width:737px;height:271px;--ch5-color-chip--width:737px;--ch5-color-chip--height:271px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#imu6x{display:block;left:258px;top:199px;position:absolute;width:2px;height:186px;--ch5-color-chip--width:2px;--ch5-color-chip--height:186px;--ch5-color-chip--background-color:#ffffff;Appearance_background-color:#ffffff;background-color:#ffffff;}#i26atu4moi{display:block;left:9px;top:399px;position:absolute;width:737px;height:263px;--ch5-color-chip--width:737px;--ch5-color-chip--height:263px;--ch5-color-chip--background-color:rgba(64,82,95,0.51);Appearance_background-color:rgba(64,82,95,0.51);background-color:rgba(64,82,95,0.51);}#i51zf{width:1251px;height:auto;left:14px;top:4px;position:absolute;listSpacing_item-spacing:10px;--ch5-subpage-reference-list--item-padding:10px;display:block;}#itvqh{top:169px;}#ix2xws1sftafi{top:174px;}#iar9a{top:174px;}#i2t5x{width:516px;height:89px;listbuttonHSize_width:125px;listbuttonVSize_height:58px;listbuttonSpacing_row-gap:0px;listbuttonSpacing_column-gap:0px;buttonListDefaultImage_width:21px;buttonListDefaultImage_height:21px;display:block;left:757px;top:359px;position:absolute;--ch5-button-list--button-container-width:125px;Label_font-size:20px;Appearance_background-color:#6591af;--ch5-button--regular-font-size:20px;--ch5-button--default-background-color:#6591af;Icon_font-size:12px;--ch5-button-list--container-padding:1px;listSpacing_margin:1px;--ch5-button-list--button-container-padding:3px;listSpacing_item-spacing:3px;--ch5-button--regular-icon-size:12px;}}
 
 {PageAttributes}
 
@@ -33,35 +33,41 @@ Type = "widgetContainer"
 Classes = ["widget-container"]
 
 [[Elements.Components]]
-Type = "Ch5 Subpage Reference List"
+Type = "Ch5 Color Chip"
 Editable = true
 
 [Elements.Components.Attributes]
-orientation = "horizontal"
-columns = "1"
-rows = "1"
-centeritems = "true"
-numberofitems = "2"
-scrolltoposition = "0"
-scrollbar = "false"
-endless = "false"
-indexid = "idx"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-useContractForEnable = "false"
-useContractForShow = "false"
-useContractForNumItems = "false"
-useContractForItemEnable = "false"
-useContractForItemShow = "true"
-customvstheme = "custom"
-loaditems = "visible-only"
-id = "ix2xws1sftafi"
-componentName = "dest_mpr2"
+maxvalue = "255"
+id = "il9z82jawn"
+componentName = "Color Chip_2"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-pd-subpagereceivestateshow = "Contract Enabled"
-oldID = "iar9a"
-widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i5mh4b418g"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "ij73f1joj7"
+componentName = "Color Chip"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "il9z82jawn"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "i26atu4moi"
+componentName = "Color Chip_3"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "ie1aphd51k"
 [[Elements.Components]]
 Type = "Ch5 Subpage Reference List"
 Editable = true
@@ -75,7 +81,7 @@ orientation = "horizontal"
 columns = "1"
 rows = "1"
 centeritems = "true"
-numberofitems = "1"
+numberofitems = "16"
 scrolltoposition = "0"
 scrollbar = "false"
 endless = "false"
@@ -83,32 +89,71 @@ indexid = "idx"
 useContractForCustomStyle = "false"
 useContractForCustomClass = "false"
 useContractForEnable = "false"
-useContractForShow = "false"
+useContractForShow = "true"
 useContractForNumItems = "false"
 useContractForItemEnable = "false"
 useContractForItemShow = "true"
 customvstheme = "custom"
 loaditems = "visible-only"
-id = "iar9a"
-componentName = "dest_mpr1"
+id = "i51zf"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
 pd-subpagereceivestateshow = "Contract Enabled"
-widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
+componentName = "srcListSelector"
+widgetid = "wef90b2d7-54da-405f-8649-336971d47454"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "ield1m7fbis95"
+componentName = "nameMPR"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Projectors"
+labelinnerhtml = "Projectors"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "irxonj639to1n"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "imnji6of1hq12"
+componentName = "nameDiining"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Dining Displays"
+labelinnerhtml = "Dining Displays"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "idotihx5sivaz"
+pd-receivestatelabel = "Contract Enabled"
 [[Elements.Components]]
 Type = "Ch5 Subpage Reference List"
 Editable = true
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "\n              "
 
 [Elements.Components.Attributes]
 orientation = "horizontal"
 columns = "1"
 rows = "1"
 centeritems = "true"
-numberofitems = "2"
+numberofitems = "3"
 scrolltoposition = "0"
 scrollbar = "false"
 endless = "false"
@@ -116,18 +161,32 @@ indexid = "idx"
 useContractForCustomStyle = "false"
 useContractForCustomClass = "false"
 useContractForEnable = "false"
-useContractForShow = "false"
+useContractForShow = "true"
 useContractForNumItems = "false"
 useContractForItemEnable = "false"
 useContractForItemShow = "true"
 customvstheme = "custom"
 loaditems = "visible-only"
-id = "itvqh"
-componentName = "destQuadView"
+id = "ihz1l9fjm10bh"
+componentName = "dest_diningRm"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-receivestateshow = "Contract Enabled"
+oldID = "i9w1j5dmdxnqc"
 pd-subpagereceivestateshow = "Contract Enabled"
-widgetid = "wf25e17df-f541-4832-a666-c316481df0da"
+widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "i2rehzhhk4me5"
+componentName = "Color Chip_4"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "ib2camczyf2uh"
 [[Elements.Components]]
 Type = "Ch5 Subpage Reference List"
 Editable = true
@@ -151,14 +210,73 @@ useContractForItemEnable = "false"
 useContractForItemShow = "true"
 customvstheme = "custom"
 loaditems = "visible-only"
-id = "i1eetlci44k6w"
-componentName = "teamsContent"
+id = "isvvb6c0myy82"
+componentName = "route_desktop"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
 pd-receivestateshow = "Contract Enabled"
 pd-subpagereceivestateshow = "Contract Enabled"
-oldID = "isvvb6c0myy82"
+oldID = "ihkyf"
 widgetid = "w9e8397cb-21bb-49bd-9850-24d1105606a8"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "imu6x"
+componentName = "Color Chip_5"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "#ffffff"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "if81ayxge5egf"
+componentName = "Color Chip_1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2rehzhhk4me5"
+[[Elements.Components]]
+Type = "Ch5 Color Chip"
+Editable = true
+
+[Elements.Components.Attributes]
+maxvalue = "255"
+id = "iiyitubqubrgk"
+componentName = "Color Chip_6"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+previewcolor = "rgba(64,82,95,0.51)"
+oldID = "i2rehzhhk4me5"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+id = "irukeawqsxu6c"
+componentName = "text_quadview"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Quadview"
+labelinnerhtml = "Quadview"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "ijry5frqjrrps"
 [[Elements.Components]]
 Type = "Ch5 Button List"
 Editable = true
@@ -240,65 +358,6 @@ useContractForItemShow = "true"
 buttonlabelinnerhtml = "<p><span style=\"font-family: 'Roboto'\">Preset 1<br>Line2</span></p>"
 labelmodeBtnList = "advanced"
 [[Elements.Components]]
-Type = "Ch5 Text"
-Editable = true
-
-[Elements.Components.Attributes]
-clearLabel = "false"
-labelmodeadvncomponent = "simple"
-horizontalalignment = "center"
-verticalalignment = "middle"
-multilinesupport = "true"
-truncatetext = "false"
-id = "irukeawqsxu6c"
-componentName = "text_quadview"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Quadview"
-labelinnerhtml = "Quadview"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-ccid_themeCSSSet = "true"
-oldID = "ijry5frqjrrps"
-[[Elements.Components]]
-Type = "Ch5 Color Chip"
-Editable = true
-
-[Elements.Components.Attributes]
-maxvalue = "255"
-id = "iiyitubqubrgk"
-componentName = "Color Chip_6"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-previewcolor = "rgba(64,82,95,0.51)"
-oldID = "i2rehzhhk4me5"
-[[Elements.Components]]
-Type = "Ch5 Color Chip"
-Editable = true
-
-[Elements.Components.Attributes]
-maxvalue = "255"
-id = "if81ayxge5egf"
-componentName = "Color Chip_1"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-previewcolor = "rgba(64,82,95,0.51)"
-oldID = "i2rehzhhk4me5"
-[[Elements.Components]]
-Type = "Ch5 Color Chip"
-Editable = true
-
-[[Elements.Components.Components]]
-Type = "textnode"
-Content = "\n              "
-
-[Elements.Components.Attributes]
-maxvalue = "255"
-id = "imu6x"
-componentName = "Color Chip_5"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-previewcolor = "#ffffff"
-[[Elements.Components]]
 Type = "Ch5 Subpage Reference List"
 Editable = true
 
@@ -321,99 +380,14 @@ useContractForItemEnable = "false"
 useContractForItemShow = "true"
 customvstheme = "custom"
 loaditems = "visible-only"
-id = "isvvb6c0myy82"
-componentName = "route_desktop"
+id = "i1eetlci44k6w"
+componentName = "teamsContent"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
 pd-receivestateshow = "Contract Enabled"
 pd-subpagereceivestateshow = "Contract Enabled"
-oldID = "ihkyf"
+oldID = "isvvb6c0myy82"
 widgetid = "w9e8397cb-21bb-49bd-9850-24d1105606a8"
-[[Elements.Components]]
-Type = "Ch5 Color Chip"
-Editable = true
-
-[Elements.Components.Attributes]
-maxvalue = "255"
-id = "i2rehzhhk4me5"
-componentName = "Color Chip_4"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-previewcolor = "rgba(64,82,95,0.51)"
-oldID = "ib2camczyf2uh"
-[[Elements.Components]]
-Type = "Ch5 Subpage Reference List"
-Editable = true
-
-[Elements.Components.Attributes]
-orientation = "horizontal"
-columns = "1"
-rows = "1"
-centeritems = "true"
-numberofitems = "3"
-scrolltoposition = "0"
-scrollbar = "false"
-endless = "false"
-indexid = "idx"
-useContractForCustomStyle = "false"
-useContractForCustomClass = "false"
-useContractForEnable = "false"
-useContractForShow = "true"
-useContractForNumItems = "false"
-useContractForItemEnable = "false"
-useContractForItemShow = "true"
-customvstheme = "custom"
-loaditems = "visible-only"
-id = "ihz1l9fjm10bh"
-componentName = "dest_diningRm"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-pd-receivestateshow = "Contract Enabled"
-oldID = "i9w1j5dmdxnqc"
-pd-subpagereceivestateshow = "Contract Enabled"
-widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
-[[Elements.Components]]
-Type = "Ch5 Text"
-Editable = true
-
-[Elements.Components.Attributes]
-clearLabel = "false"
-labelmodeadvncomponent = "simple"
-horizontalalignment = "center"
-verticalalignment = "middle"
-multilinesupport = "true"
-truncatetext = "false"
-id = "imnji6of1hq12"
-componentName = "nameDiining"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Dining Displays"
-labelinnerhtml = "Dining Displays"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-ccid_themeCSSSet = "true"
-oldID = "idotihx5sivaz"
-pd-receivestatelabel = "Contract Enabled"
-[[Elements.Components]]
-Type = "Ch5 Text"
-Editable = true
-
-[Elements.Components.Attributes]
-clearLabel = "false"
-labelmodeadvncomponent = "simple"
-horizontalalignment = "center"
-verticalalignment = "middle"
-multilinesupport = "true"
-truncatetext = "false"
-id = "ield1m7fbis95"
-componentName = "nameMPR"
-ccid_ActiveFont = "'Roboto'"
-ccid_Label = "Projectors"
-labelinnerhtml = "Projectors"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-ccid_themeCSSSet = "true"
-oldID = "irxonj639to1n"
-pd-receivestatelabel = "Contract Enabled"
 [[Elements.Components]]
 Type = "Ch5 Subpage Reference List"
 Editable = true
@@ -427,7 +401,7 @@ orientation = "horizontal"
 columns = "1"
 rows = "1"
 centeritems = "true"
-numberofitems = "16"
+numberofitems = "2"
 scrolltoposition = "0"
 scrollbar = "false"
 endless = "false"
@@ -435,55 +409,81 @@ indexid = "idx"
 useContractForCustomStyle = "false"
 useContractForCustomClass = "false"
 useContractForEnable = "false"
-useContractForShow = "true"
+useContractForShow = "false"
 useContractForNumItems = "false"
 useContractForItemEnable = "false"
 useContractForItemShow = "true"
 customvstheme = "custom"
 loaditems = "visible-only"
-id = "i51zf"
+id = "itvqh"
+componentName = "destQuadView"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-pd-receivestateshow = "Contract Enabled"
 pd-subpagereceivestateshow = "Contract Enabled"
-componentName = "srcListSelector"
-widgetid = "wef90b2d7-54da-405f-8649-336971d47454"
+widgetid = "wf25e17df-f541-4832-a666-c316481df0da"
 [[Elements.Components]]
-Type = "Ch5 Color Chip"
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "1"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iar9a"
+componentName = "dest_mpr1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
 Editable = true
 
 [Elements.Components.Attributes]
-maxvalue = "255"
-id = "i26atu4moi"
-componentName = "Color Chip_3"
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "2"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "ix2xws1sftafi"
+componentName = "dest_mpr2"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-previewcolor = "rgba(64,82,95,0.51)"
-oldID = "ie1aphd51k"
-[[Elements.Components]]
-Type = "Ch5 Color Chip"
-Editable = true
-
-[Elements.Components.Attributes]
-maxvalue = "255"
-id = "ij73f1joj7"
-componentName = "Color Chip"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-previewcolor = "rgba(64,82,95,0.51)"
-oldID = "il9z82jawn"
-[[Elements.Components]]
-Type = "Ch5 Color Chip"
-Editable = true
-
-[Elements.Components.Attributes]
-maxvalue = "255"
-id = "il9z82jawn"
-componentName = "Color Chip_2"
-ccid_linkSendReceive = "True"
-devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
-previewcolor = "rgba(64,82,95,0.51)"
-oldID = "i5mh4b418g"
+pd-subpagereceivestateshow = "Contract Enabled"
+oldID = "iar9a"
+widgetid = "we16173a7-2dc6-4f7d-aed5-5636cc9f27f4"
 
 [Elements.Attributes]
 categoryname = "Widget Components"
